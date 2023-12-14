@@ -76,5 +76,6 @@ Running 2 tests using 2 workers
     [chromium] › test-1.spec.ts:29:1 › test - 压缩文件 ──────────────────────────────────
   1 passed (7.5s)
 ```
-we can commit the test-1.spec.ts file line 35 and 42, and test agagin, it will pass.
-screenshots will generate in tests/test-1.spec.ts-snapshots, we can see difference between the different test case
+we can commit the `test-1.spec.ts` file line 35 and 42, and test agagin, it will pass.
+
+screenshots will generate in `tests/test-1.spec.ts-snapshots`, we can see difference between the different test case
